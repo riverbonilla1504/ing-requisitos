@@ -1,0 +1,21 @@
+Requisitos Funcionales:
+
+- Seleccione destino 
+- Ingrese tarjeta de credito 
+- Ingresar numero de identificacion
+- Expedir boleto
+- Cobro de tarjeta de credito 
+- Activar menu 
+- Validez de identificacion 
+
+Requisitos no funcionales 
+
+- Aceptacion Asbbes Data
+- Privacidad de datos sensibles 
+- Eficiencia en generacion del boleto 
+- Proceso/ de boletos con expectativo decreci/
+- Eficiencia de respuesta del sistema 
+- Disponibilidad del sistema 
+- Interfaz facil de usar 
+- Mantenimiento, correcion o mejoras
+- Compatibilidad con diferentes sistemas 
