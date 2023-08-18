@@ -1,0 +1,41 @@
+Requisitos Funcionales
+
+Crear Cuenta:
+El sistema debe permitir a los usuarios crear una cuenta ingresando un nombre de usuario y una contraseña.
+La información de inicio de sesión debe almacenarse en una estructura de datos adecuada.
+
+Ingresar Información de Tarjeta:
+Los usuarios deben tener la opción de ingresar información de tarjeta, incluyendo la marca, el número de tarjeta, la fecha de vencimiento y el código de verificación.
+La información de la tarjeta debe estar vinculada a la cuenta del usuario.
+
+Realizar Compra de Aplicación:
+Los usuarios deben poder seleccionar aplicaciones para comprar de una lista.
+
+Sistema de puntos: 
+El sistema debe calcular el valor total de la compra.
+Si los usuarios confirman la compra, se deben agregar puntos a la cuenta del usuario según el valor de la compra.
+
+Expedir recibo: 
+Un recibo de la compra debe generarse y mostrarse en la pantalla.
+
+Modificar Información de Inicio de Sesión:
+Los usuarios deben poder modificar su nombre de usuario y/o contraseña.
+El sistema debe permitir la actualización de la información de inicio de sesión y confirmar los cambios.
+
+Modificar Información de Tarjeta:
+Los usuarios deben poder actualizar la información de su tarjeta, incluyendo la marca, el número de tarjeta, la fecha de vencimiento y el código de verificación.
+Los cambios deben reflejarse en la información de la cuenta.
+
+Consultar Puntos:
+Los usuarios deben poder consultar la cantidad de puntos acumulados en su cuenta.
+
+Consultar Información de Cuenta:
+Los usuarios deben tener la opción de ver la información de su cuenta, incluyendo su nombre de usuario, contraseña y puntos acumulados.
+
+Requisitos No Funcionales:
+
+Tiempos de respuesta edicientes
+El sistema debe responder de manera rápida y eficiente a las interacciones del usuario, incluso durante la compra de aplicaciones.
+
+Canje de puntos:
+Por las compras realizadas con la tarjeta, el cliente acumula puntos, los cuales puede canjear por premios físicos.
